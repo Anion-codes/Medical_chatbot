@@ -3,7 +3,7 @@ Implementing RAG project based on a medical book using Google Collab, Pinecone, 
 
 To use go to https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML and download llama-2-7b-chat.ggmlv3.q4_0.bin (3.79GB)
 
-Now add "git clone https://github.com/Anion-codes/Medical_chatbot.git" in your terminal or dowwnload the zip file and extract
+Now add "git clone https://github.com/Anion-codes/Medical_chatbot.git" in your terminal or download the zip file and extract
 
 Add llama-2-7b-chat.ggmlv3.q4_0.bin to docs folder
 
